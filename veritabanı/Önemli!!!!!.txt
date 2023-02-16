@@ -1,0 +1,5 @@
+SQL server Management Studio Açılırken;
+
+Server name : '.'
+
+import(içe aktar) olan veritabanın name'i:'takipS' olmalıdır
